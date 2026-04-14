@@ -1,0 +1,7 @@
+"""We can import random numbers in python using random module.
+To import random numbers in python the following program is an example of how to import"""
+
+
+import random
+
+print(random.randrange(1, 25))
